@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d2c7c89-06de-4411-b4ed-1353d70a2715" name="Default Changelist" comment="" />
+    <list default="true" id="5d2c7c89-06de-4411-b4ed-1353d70a2715" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week3/Example3_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week3/Example3_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week3/Example3_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week3/Example3_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BoobleSort.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +62,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.Example3_10">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_daily.day01.BubbleSort" />
       <module name="java-basic" />
@@ -69,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example3_3" />
+    <configuration name="Example3_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example3_10" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example3_4" />
+    <configuration name="Example3_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example3_7" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example3_5" />
+    <configuration name="Example3_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example3_8" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example3_6" />
+    <configuration name="Example3_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example3_9" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example3_10" />
+        <item itemvalue="Application.Example3_9" />
+        <item itemvalue="Application.Example3_8" />
+        <item itemvalue="Application.Example3_7" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Example3_6" />
-        <item itemvalue="Application.Example3_5" />
-        <item itemvalue="Application.Example3_4" />
-        <item itemvalue="Application.Example3_3" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +162,8 @@
       <workItem from="1603086293736" duration="8094000" />
       <workItem from="1603113156920" duration="600000" />
       <workItem from="1603190551326" duration="2787000" />
+      <workItem from="1603207447083" duration="278000" />
+      <workItem from="1603273474620" duration="2898000" />
     </task>
     <servers />
   </component>
@@ -186,22 +195,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603089184076" />
-    <state width="1537" height="194" key="GridCell.Tab.0.bottom" timestamp="1603194069441">
+    <state width="1537" height="194" key="GridCell.Tab.0.bottom" timestamp="1603284723829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603194069441" />
-    <state width="1537" height="194" key="GridCell.Tab.0.center" timestamp="1603194069441">
+    <state width="1537" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603284723829" />
+    <state width="1537" height="194" key="GridCell.Tab.0.center" timestamp="1603284723829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603194069441" />
-    <state width="1537" height="194" key="GridCell.Tab.0.left" timestamp="1603194069441">
+    <state width="1537" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603284723829" />
+    <state width="1537" height="194" key="GridCell.Tab.0.left" timestamp="1603284723829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603194069441" />
-    <state width="1537" height="194" key="GridCell.Tab.0.right" timestamp="1603194069441">
+    <state width="1537" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603284723829" />
+    <state width="1537" height="194" key="GridCell.Tab.0.right" timestamp="1603284723829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603194069441" />
+    <state width="1537" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603284723829" />
     <state x="270" y="0" key="SettingsEditor" timestamp="1603086776705">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -218,6 +227,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week3/Example3_5.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week3/Example3_9.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
