@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d2c7c89-06de-4411-b4ed-1353d70a2715" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week3/Example4_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week3/Example4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week3/Rect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,22 +59,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Example4_3">
+  <component name="RunManager" selected="Application.Example4_4">
     <configuration name="Example3_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example3_10" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.congzhang.java.README.Week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example3_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example3_9" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -124,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example4_4" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.congzhang.java.README.Week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example4_4" />
         <item itemvalue="Application.Example4_3" />
         <item itemvalue="Application.Example4_2" />
         <item itemvalue="Application.Example4_1" />
         <item itemvalue="Application.Example3_10" />
-        <item itemvalue="Application.Example3_9" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +163,8 @@
       <workItem from="1603273474620" duration="3053000" />
       <workItem from="1603353332717" duration="640000" />
       <workItem from="1603453984091" duration="358000" />
-      <workItem from="1603454428244" duration="769000" />
+      <workItem from="1603454428244" duration="915000" />
+      <workItem from="1603503832005" duration="508000" />
     </task>
     <servers />
   </component>
@@ -194,22 +196,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603454998821" />
-    <state width="1537" height="260" key="GridCell.Tab.0.bottom" timestamp="1603353976987">
+    <state width="1537" height="194" key="GridCell.Tab.0.bottom" timestamp="1603504350839">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603353976987" />
-    <state width="1537" height="260" key="GridCell.Tab.0.center" timestamp="1603353976987">
+    <state width="1537" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603504350839" />
+    <state width="1537" height="194" key="GridCell.Tab.0.center" timestamp="1603504350839">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603353976987" />
-    <state width="1537" height="260" key="GridCell.Tab.0.left" timestamp="1603353976987">
+    <state width="1537" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603504350839" />
+    <state width="1537" height="194" key="GridCell.Tab.0.left" timestamp="1603504350839">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603353976987" />
-    <state width="1537" height="260" key="GridCell.Tab.0.right" timestamp="1603353976987">
+    <state width="1537" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603504350839" />
+    <state width="1537" height="194" key="GridCell.Tab.0.right" timestamp="1603504350839">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603353976987" />
+    <state width="1537" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603504350839" />
     <state width="1537" height="260" key="GridCell.Tab.1.bottom" timestamp="1603353976987">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -247,11 +249,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week3/Example3_9.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week3/Example4_3.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
