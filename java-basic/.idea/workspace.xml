@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d2c7c89-06de-4411-b4ed-1353d70a2715" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week4/Example4_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week4/Example4_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week4/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/Week4/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +74,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example4_9">
-    <configuration name="Example4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week3.Example4_5" />
+  <component name="RunManager" selected="Application.Example4_11">
+    <configuration name="Example4_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week4.Example4_11" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.congzhang.java.README.Week3.*" />
+          <option name="PATTERN" value="com.congzhang.java.README.Week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,7 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseEmployeeTest.getSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="People" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week4.People" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -133,21 +136,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.congzhang.java.README.Week4" />
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.Week4.BaseEmployeeTest" />
-      <option name="METHOD_NAME" value="getSalary" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example4_11" />
+        <item itemvalue="Application.People" />
         <item itemvalue="Application.Example4_9" />
         <item itemvalue="Application.Example4_7" />
         <item itemvalue="Application.Example4_6" />
-        <item itemvalue="JUnit.BaseEmployeeTest.getSalary" />
-        <item itemvalue="Application.Example4_5" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +190,11 @@
       <workItem from="1603797293285" duration="18000" />
       <workItem from="1603797326216" duration="678000" />
       <workItem from="1603887382669" duration="622000" />
-      <workItem from="1603888464823" duration="1967000" />
+      <workItem from="1603888464823" duration="2256000" />
+      <workItem from="1603971221890" duration="408000" />
+      <workItem from="1603971842911" duration="3000" />
+      <workItem from="1603972643198" duration="37000" />
+      <workItem from="1604051621233" duration="307000" />
     </task>
     <servers />
   </component>
@@ -227,22 +230,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603454998821" />
-    <state width="1493" height="167" key="GridCell.Tab.0.bottom" timestamp="1603888009009">
+    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1603972678911">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603888009009" />
-    <state width="1493" height="167" key="GridCell.Tab.0.center" timestamp="1603888009009">
+    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603972678911" />
+    <state width="1493" height="167" key="GridCell.Tab.0.bottom" timestamp="1603971633139">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603888009009" />
-    <state width="1493" height="167" key="GridCell.Tab.0.left" timestamp="1603888009009">
+    <state width="1493" height="167" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603971633139" />
+    <state width="1493" height="167" key="GridCell.Tab.0.center" timestamp="1603971633138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603888009009" />
-    <state width="1493" height="167" key="GridCell.Tab.0.right" timestamp="1603888009009">
+    <state width="1493" height="167" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603971633138" />
+    <state width="1493" height="167" key="GridCell.Tab.0.left" timestamp="1603971633138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603888009009" />
+    <state width="1493" height="167" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603971633138" />
+    <state width="1493" height="167" key="GridCell.Tab.0.right" timestamp="1603971633139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="167" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603971633139" />
     <state width="1537" height="260" key="GridCell.Tab.1.bottom" timestamp="1603353976987">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
