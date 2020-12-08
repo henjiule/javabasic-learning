@@ -2,36 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d2c7c89-06de-4411-b4ed-1353d70a2715" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/io/DownloadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/io/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/io/TxtFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/wee8/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/wee8/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/wee8/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/wee8/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week13/Example12_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week13/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week13/io/Example12_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week13/io/FileAccept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week13/io/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week13/io/TxtFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week6/LoginFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week6/LoginFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main/java/StudentFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main/java/StudentFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main/java/week8/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main/java/week8/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main/java/week8/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main/java/week8/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week14/CarouselFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week14/CarouselThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week14/LineFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week14/LineThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week14/NumberFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week14/NumberThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week14/TextThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week14/TimeThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week5/README/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week5/README/BookServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week5/README/TestBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/congzhang/java/README/week5/README/TestBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/congzhang/java/README/week5/README/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/congzhang/java/README/week5/README/TestTooWeightException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/StudentFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main/java/StudentFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/StudentFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main/java/StudentFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/week8/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main/java/week8/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/week8/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main/java/week8/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/week8/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main/java/week8/SetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/week8/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main/java/week8/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +36,7 @@
       <list>
         <option value="Arquillian JUnit Test Class" />
         <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -78,8 +66,9 @@
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="411" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -93,6 +82,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.congzhang.java.README.week14.thread" />
       <recent name="com.congzhang.java.README.Week4" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -102,13 +92,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example12_2">
-    <configuration name="Example12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.week13.Example12_1" />
+  <component name="RunManager" selected="Application.NumberFrame">
+    <configuration name="CarouselFrame (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lalajie.java.week10.CarouselFrame" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.congzhang.java.README.week13.*" />
+          <option name="PATTERN" value="com.lalajie.java.week10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example12_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.week13.io.Example12_2" />
+    <configuration name="CarouselFrame (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.week14.CarouselFrame" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.congzhang.java.README.week13.io.*" />
+          <option name="PATTERN" value="com.congzhang.java.README.week14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.week13.io.FileTest" />
+    <configuration name="CarouselFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.week14.thread.CarouselFrame" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.congzhang.java.README.week13.io.*" />
+          <option name="PATTERN" value="com.congzhang.java.README.week14.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.io.FileTest" />
+    <configuration name="LineFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.week14.LineFrame" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.congzhang.java.README.io.*" />
+          <option name="PATTERN" value="com.congzhang.java.README.week14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TxtFileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.io.TxtFileTest" />
+    <configuration name="NumberFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.congzhang.java.README.week14.NumberFrame" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.congzhang.java.README.io.*" />
+          <option name="PATTERN" value="com.congzhang.java.README.week14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example12_2" />
-        <item itemvalue="Application.Example12_1" />
-        <item itemvalue="Application.TxtFileTest" />
-        <item itemvalue="Application.FileTest (1)" />
-        <item itemvalue="Application.FileTest" />
+        <item itemvalue="Application.NumberFrame" />
+        <item itemvalue="Application.CarouselFrame (2)" />
+        <item itemvalue="Application.LineFrame" />
+        <item itemvalue="Application.CarouselFrame (1)" />
+        <item itemvalue="Application.CarouselFrame" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +226,21 @@
       <workItem from="1606109433033" duration="22000" />
       <workItem from="1606715657037" duration="10196000" />
       <workItem from="1606731281985" duration="3633000" />
+      <workItem from="1607319303052" duration="650000" />
+      <workItem from="1607319976006" duration="1780000" />
+      <workItem from="1607321792749" duration="1424000" />
+      <workItem from="1607323607936" duration="1338000" />
+      <workItem from="1607326187851" duration="1473000" />
+      <workItem from="1607328485043" duration="271000" />
+      <workItem from="1607329347376" duration="2611000" />
+      <workItem from="1607335477208" duration="711000" />
+      <workItem from="1607338652021" duration="4514000" />
+      <workItem from="1607343219261" duration="16000" />
+      <workItem from="1607343297971" duration="681000" />
+      <workItem from="1607344006711" duration="283000" />
+      <workItem from="1607344305879" duration="574000" />
+      <workItem from="1607344901676" duration="3646000" />
+      <workItem from="1607425943421" duration="1146000" />
     </task>
     <servers />
   </component>
@@ -255,10 +260,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="500" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603022457485" />
-    <state x="983" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1605508625848">
+    <state x="983" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1607329736804">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="983" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605508625848" />
+    <state x="983" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1607329736804" />
     <state x="321" y="111" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1602678213487">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -279,38 +284,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603972678911" />
-    <state width="1493" height="245" key="GridCell.Tab.0.bottom" timestamp="1606734920705">
+    <state width="1492" height="75" key="GridCell.Tab.0.bottom" timestamp="1607427586831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606734920705" />
-    <state width="1493" height="245" key="GridCell.Tab.0.center" timestamp="1606734920705">
+    <state width="1492" height="75" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607427586831" />
+    <state width="1492" height="75" key="GridCell.Tab.0.center" timestamp="1607427586831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606734920705" />
-    <state width="1493" height="245" key="GridCell.Tab.0.left" timestamp="1606734920705">
+    <state width="1492" height="75" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607427586831" />
+    <state width="1492" height="75" key="GridCell.Tab.0.left" timestamp="1607427586830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606734920705" />
-    <state width="1493" height="245" key="GridCell.Tab.0.right" timestamp="1606734920705">
+    <state width="1492" height="75" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607427586830" />
+    <state width="1492" height="75" key="GridCell.Tab.0.right" timestamp="1607427586831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606734920705" />
-    <state width="1493" height="251" key="GridCell.Tab.1.bottom" timestamp="1606718165214">
+    <state width="1492" height="75" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607427586831" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1607343983910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606718165214" />
-    <state width="1493" height="251" key="GridCell.Tab.1.center" timestamp="1606718165214">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607343983910" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1607343983910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606718165214" />
-    <state width="1493" height="251" key="GridCell.Tab.1.left" timestamp="1606718165214">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607343983910" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1607343983910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606718165214" />
-    <state width="1493" height="251" key="GridCell.Tab.1.right" timestamp="1606718165214">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607343983910" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1607343983910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606718165214" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607343983910" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1604318137157">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -319,10 +324,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604904940914" />
-    <state x="810" y="106" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603714483699">
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1607343345324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="810" y="106" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1603714483699" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1607343345324" />
+    <state x="810" y="106" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1607326828288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="810" y="106" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1607326828288" />
     <state x="537" y="293" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1604907780783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
